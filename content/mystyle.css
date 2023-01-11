@@ -167,7 +167,7 @@ button {
 .b1{
 	background:url("images/1b.jpg") no-repeat fixed;
 	background-position:center top;
-	background-size: 100% 100%;
+	background-size: 75% 0%;
 }
 
 .b2{
