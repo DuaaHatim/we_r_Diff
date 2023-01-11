@@ -212,7 +212,7 @@ p {
 }
 	
 .b1{
-	background:url("images/1b.jpg") no-repeat fixed left-center;
+	background:url("images/1b.jpg") no-repeat fixed center top;
 	background-size: 100% 100%;
 }
 
