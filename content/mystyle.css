@@ -165,7 +165,8 @@ button {
 
 
 .b1{
-	background:url("images/1b.jpg") no-repeat fixed center;
+	background:url("images/1b.jpg") no-repeat fixed;
+	background-position:center top;
 	background-size: 100% 100%;
 }
 
@@ -209,11 +210,6 @@ button {
 
 p {
 	font-size: 40px;
-}
-	
-.b1{
-	background:url("images/1b.jpg") no-repeat fixed center top;
-	background-size: 100% 100%;
 }
 
 
