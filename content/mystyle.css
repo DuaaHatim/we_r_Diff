@@ -345,10 +345,13 @@ p {
 	font-size: 20px;
 	width:100%;
 	padding:0;
+	line-height:1;
+	margin:0;
 }	
 
 pre{
-	font-size:32px;
+	font-size:28px;
+	line-height:1;
 }
 
 .font{
