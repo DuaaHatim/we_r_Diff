@@ -112,6 +112,7 @@ p {
 	margin-right:auto;
 	line-height:1.5;
 	font-size:55px;
+	width:70%;
 }
 
 .font{
@@ -147,8 +148,8 @@ button {
 }
 
 .last{
-	margin-left:30px;
-	margin-right:30px;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 .sbutton{
@@ -174,44 +175,32 @@ button {
 .b8{
 	position:absolute;
 	top:35%;
-	right:15%;
+	right:20%;
 }
 
 
 @media only screen and (max-width: 1500px){
 
 p {
-	line-height:1.7;
-	font-size:37px;
+	font-size: 40px;
 }	
 
-.font{
-	font-size:37px;
-	line-height:1.7;
-	}
-	
 pre{
 	font-size:75px;
 }
+
+.font{
+	font-size:35px;
+}
+
 }
 
 
 @media only screen and (max-width: 1024px){
 
 p {
-	font-size: 35px;
-	line-height:1.7;
+	font-size: 40px;
 }
-	
-.b1{
-	position:absolute;
-	top:40%;
-	right:5%;
-	}
-	
-.font{
-	font-size:35px;
-	}
 
 pre{
 	font-size:75px;
