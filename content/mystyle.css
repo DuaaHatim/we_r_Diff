@@ -217,7 +217,7 @@ pre{
 @media only screen and (max-width: 1024px){
 
 .down{
-	height:10%;
+	height:7%;
 	}
 	
 .b1{
@@ -249,14 +249,36 @@ pre{
 
 
 @media only screen and (max-width: 940px){
+.down{
+	height:7%;
+	}
+	
+.b1{
+	position:absolute;
+	top:40%;
+	right:15%;
+	}
+
+
+.b8{
+	position:absolute;
+	top:35%;
+	right:15%;
+}
+
 
 p {
-	font-size: 36px;
-}
+	font-size: 40px;
+}	
 
 pre{
-	font-size:70px;
+	font-size:50px;
 }
+
+.font{
+	font-size:38px;
+}	
+
 button {
 	font-size: 18px;
 }
