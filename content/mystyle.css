@@ -250,35 +250,35 @@ pre{
 
 @media only screen and (max-width: 940px){
 .down{
-	height:3%;
+	height:5%;
 	}
 	
 .b1{
 	position:absolute;
-	top:40%;
+	top:0%;
 	right:15%;
 	}
 
 
 .b8{
 	position:absolute;
-	top:35%;
+	top:0;
 	right:15%;
 }
 
 
 p {
-	font-size: 36px;
+	font-size: 30px;
 	width:100%;
 	padding:0;
 }	
 
 pre{
-	font-size:32px;
+	font-size:40px;
 }
 
 .font{
-	font-size:38px;
+	font-size:28px;
 }	
 
 button {
