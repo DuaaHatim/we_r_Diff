@@ -363,5 +363,13 @@
 	}
 
 </script>
+	
+<script>
+	document.addEventListener("touchmove", preventScrolling, { passive: false });
+
+function preventScrolling(event) {
+    event.preventDefault();
+}
+</script>
 </body>
 </html>
