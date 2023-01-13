@@ -278,7 +278,7 @@ p {
 	font-size: 20px;
 	/*width:100%;
 	padding:0;*/
-	line-height:1;
+	line-height:2;
 }	
 
 pre{
@@ -288,7 +288,7 @@ pre{
 
 .font{
 	font-size:17px;
-	line-height:1;
+	line-height:2;
 }	
 
 button {
