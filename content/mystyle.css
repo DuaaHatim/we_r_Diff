@@ -199,18 +199,18 @@ pre{
 @media only screen and (max-width: 1024px){
 
 p {
-	font-size: 37px;
+	font-size: 35px;
 	line-height:1.7;
 }
 	
 .b1{
 	position:absolute;
 	top:40%;
-	right:10%;
+	right:5%;
 	}
 	
 .font{
-	font-size:37px;
+	font-size:35px;
 	}
 
 pre{
