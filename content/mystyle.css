@@ -182,7 +182,7 @@ button {
 @media only screen and (max-width: 1500px){
 
 .down{
-	height:6%;
+	height:2%;
 	}
 	
 .b1{
@@ -216,17 +216,35 @@ pre{
 
 @media only screen and (max-width: 1024px){
 
-p {
-	font-size: 40px;
+.down{
+	height:2%;
+	}
+	
+.b1{
+	position:absolute;
+	top:40%;
+	right:35%;
+	}
+
+
+.b8{
+	position:absolute;
+	top:35%;
+	right:15%;
 }
+
+
+p {
+	font-size: 48px;
+}	
 
 pre{
 	font-size:75px;
 }
 
-button {
-	font-size: 18px;
-}
+.font{
+	font-size:45px;
+}	
 }
 
 
