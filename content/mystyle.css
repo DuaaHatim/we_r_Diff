@@ -180,7 +180,12 @@ button {
 
 
 @media only screen and (max-width: 1500px){
-.b1{
+
+	.down{
+		height:10%;
+	}
+	
+	.b1{
 	position:absolute;
 	top:40%;
 	right:5%;
