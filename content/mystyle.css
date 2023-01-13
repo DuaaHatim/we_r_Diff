@@ -275,7 +275,7 @@ pre{
 
 
 p {
-	font-size: 27px;
+	font-size: 25px;
 	/*width:100%;
 	padding:0;*/
 	line-height:1.5;
@@ -287,7 +287,7 @@ pre{
 }
 
 .font{
-	font-size:25px;
+	font-size:23px;
 	line-height:1.5;
 }	
 
@@ -310,7 +310,7 @@ button {
 
 .b8{
 	position:absolute;
-	top:35%;
+	top:40%;
 	right:15%;
 }
 
