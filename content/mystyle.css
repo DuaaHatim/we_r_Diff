@@ -285,22 +285,36 @@ button {
 }
 
 @media only screen and (max-width: 620px){
-/* body {
-	width: auto;
-	height: auto;
-}*/
 
-/* div {
-	width: auto;
-	height: auto;
-}*/
-p {
-	font-size: 22px;
+.down{
+	height:7%;
+	}
+	
+.b1{
+	position:absolute;
+	top:40%;
+	right:15%;
+	}
+
+
+.b8{
+	position:absolute;
+	top:35%;
+	right:15%;
 }
+
+
+p {
+	font-size: 48px;
+}	
 
 pre{
-	font-size:55px;
+	font-size:75px;
 }
+
+.font{
+	font-size:45px;
+}	
 	
 button {
 	font-size: 12px;
@@ -308,23 +322,37 @@ button {
 }
 
 @media only screen and (max-width: 300px){
-/* body {
-	width: auto;
-	height: auto;
-} */
 
-/* div {
-	width: auto;
-	height: auto;
-} */
+	.down{
+	height:7%;
+	}
+	
+.b1{
+	position:absolute;
+	top:40%;
+	right:15%;
+	}
+
+
+.b8{
+	position:absolute;
+	top:35%;
+	right:15%;
+}
+
 
 p {
-	font-size: 18px;
-}
+	font-size: 48px;
+}	
 
 pre{
-	font-size:50px;
+	font-size:75px;
 }
+
+.font{
+	font-size:45px;
+}	
+
 	
 button {
 	font-size: 9px;
