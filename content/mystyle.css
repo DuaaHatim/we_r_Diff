@@ -327,6 +327,16 @@ button {
 }
 
 @media only screen and (max-width: 300px){
+body {
+	width: auto;
+	height: auto;
+}
+
+div {
+	width: auto;
+	height: auto;
+}
+
 
 .down{
 	height:5%;
@@ -356,7 +366,7 @@ p {
 
 pre{
 	font-size:8px;
-	line-height:1;
+	line-height:2;
 }
 
 .font{
