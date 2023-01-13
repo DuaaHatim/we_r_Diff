@@ -262,33 +262,33 @@ pre{
 	
 .b1{
 	position:absolute;
-	top:50%;
+	top:45%;
 	right:15%;
 	}
 
 
 .b8{
 	position:absolute;
-	top:50%;
+	top:45%;
 	right:15%;
 }
 
 
 p {
-	font-size: 40px;
+	font-size: 30px;
 	/*width:100%;
 	padding:0;*/
-	line-height:2;
+	line-height:1.5;
 }	
 
 pre{
 	font-size:50px;
-	line-height:2;
+	line-height:1.5;
 }
 
 .font{
-	font-size:35px;
-	line-height:2;
+	font-size:30px;
+	line-height:1.5;
 }	
 
 button {
