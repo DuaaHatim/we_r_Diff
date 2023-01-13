@@ -333,5 +333,10 @@ pre{
 button {
 	font-size: 12px;
 }
+
+body{
+	overflow-y:hidden;
+	}
+	
 }
 
