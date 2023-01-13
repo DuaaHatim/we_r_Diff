@@ -342,7 +342,7 @@ button {
 
 
 p {
-	font-size: 20px;
+	font-size: 9px;
 	width:100%;
 	padding:0;
 	line-height:1;
@@ -350,12 +350,12 @@ p {
 }	
 
 pre{
-	font-size:28px;
+	font-size:9px;
 	line-height:1;
 }
 
 .font{
-	font-size:18px;
+	font-size:9px;
 }	
 
 	
