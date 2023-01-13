@@ -256,6 +256,11 @@ pre{
 
 
 @media only screen and (max-width: 940px){
+div {
+	width: auto;
+	height: auto;
+}
+
 .down{
 	height:5%;
 	}
@@ -275,9 +280,9 @@ pre{
 
 
 p {
-	font-size: 18px;
+	font-size: 9px;
 	width:100%;
-	padding:0;
+	/*padding:0;*/
 	line-height:1;
 }	
 
@@ -287,7 +292,7 @@ pre{
 }
 
 .font{
-	font-size:18px;
+	font-size:7px;
 	line-height:1;
 }	
 
@@ -297,11 +302,6 @@ button {
 }
 
 @media only screen and (max-width: 620px){
-body {
-	width: auto;
-	height: auto;
-}
-
 div {
 	width: auto;
 	height: auto;
@@ -343,11 +343,6 @@ button {
 }
 
 @media only screen and (max-width: 300px){
-body {
-	width: auto;
-	height: auto;
-}
-
 div {
 	width: auto;
 	height: auto;
