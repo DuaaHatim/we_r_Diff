@@ -165,44 +165,16 @@ button {
 
 
 .b1{
-	background:url("images/1b.jpg") no-repeat fixed;
-	background-position:center top;
-	background-size: 75% 0%;
+	position:absolute;
+	top:40%;
+	right:20%;
 }
 
-.b2{
-	background:url("images/2b.jpg") no-repeat fixed center;
-	background-size: 100% 100%;
-}
-
-.b3{
-	background:url("images/3b.jpg") no-repeat fixed center;
-	background-size: 100% 100%;
-}
-
-.b4{
-	background:url("images/4b.jpg") no-repeat fixed center;
-	background-size: 100% 100%;
-}
-
-.b5{
-	background:url("images/5b.jpg") no-repeat fixed center;
-	background-size: 100% 100%;
-}
-
-.b6{
-	background:url("images/6b.jpg") no-repeat fixed center;
-	background-size: 100% 100%;
-}
-
-.b7{
-	background:url("images/7b.jpg") no-repeat fixed center;
-	background-size: 100% 100%;
-}
 
 .b8{
-	background:url("images/8b.jpg") no-repeat fixed center;
-	background-size: 100% 100%;
+	position:absolute;
+	top:35%;
+	right:20%;
 }
 
 
@@ -210,8 +182,7 @@ button {
 
 p {
 	font-size: 40px;
-}
-
+}	
 
 pre{
 	font-size:75px;
