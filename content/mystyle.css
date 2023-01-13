@@ -181,18 +181,14 @@ button {
 @media only screen and (max-width: 1500px){
 
 p {
-	font-size: 50px;
-	line-height:1.5;
+	line-height:2;
 }	
 
 .font{
 	font-size:50px;
-	line-height:1.5;
+	line-height:2;
 	}
-.b1{
-	font-size:50px;
-	line-height:1.5;
-	}
+	
 pre{
 	font-size:75px;
 }
