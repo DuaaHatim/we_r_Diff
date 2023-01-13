@@ -181,13 +181,13 @@ button {
 @media only screen and (max-width: 1500px){
 
 p {
-	line-height:2;
-	font-size:50px;
+	line-height:1.7;
+	font-size:45px;
 }	
 
 .font{
 	font-size:45px;
-	line-height:2;
+	line-height:1.7;
 	}
 	
 pre{
