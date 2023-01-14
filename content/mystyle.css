@@ -267,7 +267,7 @@ pre{
 }
 
 .cover{
-	font-size:60px;
+	font-size:55px;
 	position:absolute;
 	right:15%;
 	top:26%;
@@ -276,7 +276,7 @@ pre{
 	.pen{
 		position:absolute;
 		top:45%;
-		right:22%;
+		right:25%;
 		line-heightL1.5;
 	}
 
