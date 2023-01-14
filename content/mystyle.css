@@ -370,3 +370,43 @@ button {
 	
 }
 
+@media only screen and (max-width: 600px){
+.down{
+	height:5%;
+	}
+	
+.b1{
+	position:absolute;
+	top:40%;
+	right:15%;
+	}
+
+
+.b8{
+	position:absolute;
+	top:40%;
+	right:15%;
+}
+
+
+p {
+	font-size: 18px;
+	line-height:2;
+}	
+
+pre{
+	font-size:30px;
+	line-height:2;
+}
+
+.font{
+	font-size:15px;
+	line-height:2;
+}	
+	
+button {
+	font-size: 12px;
+}
+	
+}
+
