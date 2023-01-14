@@ -370,7 +370,7 @@ button {
 	
 }
 
-@media only screen and (max-width: 900px){
+@media only screen and (max-width: 750px){
 .down{
 	height:5%;
 	}
@@ -390,7 +390,7 @@ button {
 
 
 p {
-	font-size: 16px;
+	font-size: 14px;
 	line-height:2;
 }	
 
@@ -400,7 +400,7 @@ pre{
 }
 
 .font{
-	font-size:18px;
+	font-size:16px;
 	line-height:2;
 }	
 	
