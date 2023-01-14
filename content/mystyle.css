@@ -328,9 +328,9 @@ button {
 }
 	
 .cover{
-	font-size:32px;
+	font-size:33px;
 	position:absolute;
-	right:32%;
+	right:30%;
 	top:33%;
 	line-height:1;
 	}
@@ -343,7 +343,7 @@ button {
 	}
 
 	.aa, .bb{
-		font-size:23px;
+		font-size:21px;
 	}	
 
 }
