@@ -223,8 +223,9 @@ pre{
 	
 	.pen{
 		position:absolute;
-		top:40%;
+		top:37%;
 		right:22%;
+		line-heightL1.5;
 	}
 
 	.aa, .bb{
