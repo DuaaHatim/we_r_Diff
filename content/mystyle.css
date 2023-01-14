@@ -223,13 +223,13 @@ pre{
 	
 	.pen{
 		position:absolute;
-		top:52%;
+		top:57%;
 		right:22%;
 		line-heightL1.5;
 	}
 
 	.aa, .bb{
-		font-size:39;
+		font-size:40px;
 	}
 }
 
