@@ -227,7 +227,7 @@ pre{
 		line-heightL1.5;
 	}
 
-	.aa, .bb{
+	.aa, .bb, a{
 		font-size:40px;
 	}
 }
@@ -279,7 +279,7 @@ pre{
 		line-heightL1.5;
 	}
 
-	.aa, .bb{
+	.aa, .bb, a{
 		font-size:40px;
 	}
 	
@@ -342,7 +342,7 @@ button {
 		line-heightL1.5;
 	}
 
-	.aa, .bb{
+	.aa, .bb, a{
 		font-size:21px;
 	}	
 
