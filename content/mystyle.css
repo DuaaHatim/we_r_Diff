@@ -254,7 +254,7 @@ pre{
 }	
 }
 
-@media only screen and (max-width: 960px){
+@media only screen and (max-width: 900px){
 
 .down{
 	height:7%;
@@ -289,7 +289,7 @@ pre{
 }
 
 
-@media only screen and (max-width: 940px){
+@media only screen and (max-width: 960px){
 .down{
 	height:5%;
 	}
