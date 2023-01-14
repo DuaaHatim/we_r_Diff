@@ -330,14 +330,14 @@ button {
 .cover{
 	font-size:36px;
 	position:absolute;
-	right:27%;
-	top:23%;
+	right:32%;
+	top:28%;
 	}
 	
 	.pen{
 		position:absolute;
 		top:48%;
-		right:28%;
+		right:23%;
 		line-heightL1.5;
 	}
 
