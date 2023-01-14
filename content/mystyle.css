@@ -326,6 +326,25 @@ pre{
 button {
 	font-size: 18px;
 }
+	
+.cover{
+	font-size:43px;
+	position:absolute;
+	right:22%;
+	top:28%;
+	}
+	
+	.pen{
+		position:absolute;
+		top:48%;
+		right:28%;
+		line-heightL1.5;
+	}
+
+	.aa, .bb{
+		font-size:36px;
+	}	
+
 }
 
 @media only screen and (max-width: 620px){
