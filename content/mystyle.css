@@ -216,10 +216,19 @@ pre{
 
 .cover{
 	font-size:60px;
+	position:absolute;
+	right:25%;
+	top:26%;
+	}
+	
+	.pen{
+		position:absolute;
+		top:40%;
+		right:22%;
 	}
 
 	.aa, .bb{
-		font-size:36;
+		font-size:39;
 	}
 }
 
