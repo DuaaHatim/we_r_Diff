@@ -328,7 +328,7 @@ button {
 }
 	
 .cover{
-	font-size:43px;
+	font-size:36px;
 	position:absolute;
 	right:27%;
 	top:23%;
@@ -342,7 +342,7 @@ button {
 	}
 
 	.aa, .bb{
-		font-size:36px;
+		font-size:27px;
 	}	
 
 }
