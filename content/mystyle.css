@@ -221,7 +221,7 @@ pre{
 }
 
 
-@media only screen and (max-width: 1024px){
+/* @media only screen and (max-width: 1024px){
 
 .down{
 	height:7%;
@@ -252,9 +252,9 @@ pre{
 .font{
 	font-size:45px;
 }	
-}
+} */
 
-@media only screen and (max-width: 945px){
+@media only screen and (max-width: 1024px){
 
 .down{
 	height:7%;
