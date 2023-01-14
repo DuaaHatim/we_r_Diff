@@ -254,6 +254,40 @@ pre{
 }	
 }
 
+@media only screen and (max-width: 1500px){
+
+.down{
+	height:7%;
+	}
+	
+.b1{
+	position:absolute;
+	top:40%;
+	right:15%;
+	}
+
+
+.b8{
+	position:absolute;
+	top:35%;
+	right:15%;
+}
+
+
+p {
+	font-size: 43px;
+}	
+
+pre{
+	font-size:70px;
+}
+
+.font{
+	font-size:40px;
+}
+
+}
+
 
 @media only screen and (max-width: 940px){
 .down{
