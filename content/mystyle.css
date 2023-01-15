@@ -69,6 +69,7 @@ pre {
 	text-align:center;
 	line-height:1.5;
 	font-size:90px;
+	height:90%;
 }
 
 .yellow{
@@ -97,7 +98,7 @@ div{
 
 
 img {
-	height:90%;
+	height:85%;
 	min-width:100%;
 	width:100.00%;
 	margin:0;
