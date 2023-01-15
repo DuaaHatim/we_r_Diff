@@ -201,14 +201,14 @@ button {
 	
 .b1{
 	position:absolute;
-	top:40%;
+	top:35%;
 	right:15%;
 	}
 
 
 .b8{
 	position:absolute;
-	top:35%;
+	top:30%;
 	right:15%;
 }
 
@@ -229,12 +229,12 @@ pre{
 	font-size:55px;
 	position:absolute;
 	right:25%;
-	top:29%;
+	top:35%;
 	}
 	
 	.pen{
 		position:absolute;
-		top:48%;
+		top:52%;
 		right:22%;
 		line-heightL1.5;
 	}
