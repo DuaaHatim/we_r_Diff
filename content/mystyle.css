@@ -461,18 +461,18 @@ button {
 
 
 .cover{
-	font-size:25px;
+	font-size:23px;
 	position:absolute;
 	right:15%;
-	top:33%;
+	top:38%;
 	line-height:1.3;
 	}
 	
 	.pen{
 		position:absolute;
-		top:50%;
+		top:53%;
 		right:23%;
-		line-heightL1.5;
+		line-heightL1.3;
 	}
 
 	.aa, .bb, a{
