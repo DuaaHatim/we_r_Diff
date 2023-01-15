@@ -80,7 +80,7 @@ pre {
 }
 
 
-div{
+div:not(.sbutton):not(.down):not(.dn){
 	width: 100%;
 	height: 100%;
 }
