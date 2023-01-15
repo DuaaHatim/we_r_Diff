@@ -306,23 +306,23 @@ pre{
 	
 .b1{
 	position:absolute;
-	top:33%;
+	top:30%;
 	right:15%;
 	}
 
 
 .b8{
 	position:absolute;
-	top:27%;
+	top:24%;
 	right:15%;
 }
 
 
 p {
-	font-size: 22px;
-	width:80%;
+	font-size: 20x;
+	width:90%;
 	padding:0;*/
-	line-height:1.5;
+	line-height:1.3
 }	
 
 pre{
@@ -331,8 +331,8 @@ pre{
 }
 
 .font{
-	font-size:20px;
-	line-height:1.5;
+	font-size:18px;
+	line-height:1.3
 }	
 
 button {
