@@ -364,6 +364,22 @@
 
 </script>
 	
+<script>
+	// Get the body and html elements
+var body = document.body;
+var html = document.documentElement;
+
+// Set the height of the body and html elements to the full size of the window
+body.style.height = window.innerHeight + "px";
+html.style.height = window.innerHeight + "px";
+
+// Listen for window resize events and adjust the height of the body and html elements accordingly
+window.addEventListener("resize", function() {
+    body.style.height = window.innerHeight + "px";
+    html.style.height = window.innerHeight + "px";
+});
+	</script>
+	
 <!-- <script>
 	document.addEventListener("touchmove", preventScrolling, { passive: false });
 
