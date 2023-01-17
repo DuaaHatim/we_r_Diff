@@ -322,6 +322,25 @@ pre{
 	height:5%;
 	}
 	
+.b0{
+	position:absolute;
+	top:15%;
+	right:15%;
+}
+
+.b00{
+	position:absolute;
+	top:15%;
+	right:15%;
+}
+
+.b01{
+	position:absolute;
+	top:25%;
+	right:15%;
+}	
+
+	
 .b1{
 	position:absolute;
 	top:33%;
@@ -443,6 +462,25 @@ button {
 .down{
 	height:5%;
 	}
+
+.b0{
+	position:absolute;
+	top:20%;
+	right:25%;
+}
+
+.b00{
+	position:absolute;
+	top:25%;
+	right:15%;
+}
+
+.b01{
+	position:absolute;
+	top:35%;
+	right:15%;
+}
+
 	
 .b1{
 	position:absolute;
