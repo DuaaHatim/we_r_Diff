@@ -179,6 +179,24 @@ button {
 	margin:0;
 }
 
+.b0{
+	position:absolute;
+	top:25%;
+	right:25%;
+}
+
+boo{
+	position:absolute;
+	top:10%;
+	right:15%;
+}
+
+b01{
+	position:absolute;
+	top:20%;
+	right:15%;
+}
+
 .b1{
 	position:absolute;
 	top:25%;
