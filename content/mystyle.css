@@ -193,7 +193,7 @@ button {
 
 .b01{
 	position:absolute;
-	top:35%;
+	top:35%; 
 	right:15%;
 }
 
@@ -215,7 +215,7 @@ button {
 	
 .b00{
 	position:absolute;
-	top:2%;
+	/* top:2%; */
 	right:15%;
 }
 	
@@ -280,7 +280,7 @@ pre{
 	
 .b00{
 	position:absolute;
-	top:2%;
+	/* top:2%; */
 	right:15%;
 }
 	
@@ -358,7 +358,7 @@ pre{
 
 .b00{
 	position:absolute;
-	top:5%;
+	/* top:5%; */
 	right:15%;
 }
 
@@ -499,7 +499,7 @@ button {
 
 .b00{
 	position:absolute;
-	top:2%;
+	/* top:2%; */
 	right:15%;
 }
 
