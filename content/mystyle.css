@@ -213,6 +213,12 @@ button {
 
 @media only screen and (max-width: 1500px){
 	
+.b00{
+	position:absolute;
+	top:15%;
+	right:15%;
+}
+	
 .b0{
 	position:absolute;
 	top:20%;
@@ -271,6 +277,12 @@ pre{
 
 
 @media only screen and (max-width: 1024px){
+	
+.b00{
+	position:absolute;
+	top:15%;
+	right:15%;
+}
 	
 .b0{
 	position:absolute;
