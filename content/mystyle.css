@@ -1,5 +1,6 @@
 html{
 	height:100vh;
+	font-size:100vw;
 }
 body {
 	margin:0;
@@ -246,7 +247,7 @@ button {
 
 p {
 	/* font-size: 48px; */
-	font-size:100%;
+	font-size:100rem;
 }	
 
 pre{
