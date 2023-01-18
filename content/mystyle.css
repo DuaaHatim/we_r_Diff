@@ -251,12 +251,12 @@ p {
 
 pre{
 	/* font-size:75px; */
-	font-size:100vw;
+	font-size:100%;
 }
 
 .font{
 	/* font-size:45px; */
-	font-size:100vw;
+	font-size:100%;
 }
 
 .cover{
