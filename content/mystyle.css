@@ -249,11 +249,13 @@ p {
 }	
 
 pre{
-	font-size:75px;
+	/* font-size:75px; */
+	font-size:100vw;
 }
 
 .font{
-	font-size:45px;
+	/* font-size:45px; */
+	font-size:100vw;
 }
 
 .cover{
