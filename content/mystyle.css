@@ -107,7 +107,6 @@ img {
 .container {
 	width: 100%;
 	height:95%;
-	/*position: relative; */
 	text-align: right;
 	color: black;
 	font-family:"Adobe Arabic", serif;
@@ -501,8 +500,10 @@ button {
 
 .b0{
 	position:absolute;
+	/* top:20%;
+	right:25%; */
 	top:20%;
-	right:25%;
+	right:35%;
 }
 
 .b00{
@@ -520,15 +521,19 @@ button {
 	
 .b1{
 	position:absolute;
-	top:35%;
+	/* top:35%;
+	right:15%; */
+	top:25%;
 	right:15%;
 	}
 
 
 .b8{
 	position:absolute;
-	top:40%;
-	right:15%;
+	/* top:40%; 
+	right:15%; */
+	top:25%;
+	right:20%;
 }
 
 
@@ -540,14 +545,14 @@ p {
 
 pre{
 	/* font-size:30px; */
-	font-size:320%;
+	font-size:300%;
 	line-height:2;
 }
 
 .font{
 	/* font-size:16px; */
-	font-size:240%;
-	line-height:2;
+	font-size:200%;
+	line-height:1.3;
 }	
 	
 button {
