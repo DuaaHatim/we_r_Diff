@@ -503,7 +503,7 @@ button {
 	/* top:20%;
 	right:25%; */
 	top:20%;
-	right:35%;
+	right:15%;
 }
 
 .b00{
@@ -523,7 +523,7 @@ button {
 	position:absolute;
 	/* top:35%;
 	right:15%; */
-	top:30%;
+	top:35%;
 	right:15%;
 	}
 
@@ -551,7 +551,7 @@ pre{
 
 .font{
 	/* font-size:16px; */
-	font-size:180%;
+	font-size:140%;
 	line-height:1.3;
 }	
 	
