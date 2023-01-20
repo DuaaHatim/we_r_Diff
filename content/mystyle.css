@@ -410,9 +410,9 @@ button {
 	
 	.pen{
 		position:absolute;
-		top:550;
+		top:50%;
 		right:20%;
-		line-height:1;
+		line-height:0.9;
 	}
 
 	.aa, .bb, a{
