@@ -410,13 +410,13 @@ button {
 	
 	.pen{
 		position:absolute;
-		top:58%;
+		top:55%;
 		right:20%;
-		line-height:1.1;
+		line-height:1;
 	}
 
 	.aa, .bb, a{
-		font-size:19px;
+		font-size:17px;
 	}	
 
 }
